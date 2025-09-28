@@ -2,7 +2,7 @@ Mini Dictionary
 📖 A simple HTML-only dictionary project.
 
 What it does
-Displays meanings of 5 English words in a clean format using <dl> and <ol>
+Displays meanings of 5 English words in a clean format using lists
 
 What I Practiced
 Structuring Nested Lists
